@@ -1,4 +1,5 @@
-<img width="1491" height="1055" alt="END-TO-END Pipeline" src="https://github.com/user-attachments/assets/0b171813-e957-4fe8-ab51-595198320db5" />
+<img width="1491" height="1055" alt="END-TO-END_PIPELINE" src="https://github.com/user-attachments/assets/991ee964-1273-4f3b-a4cd-6af356d27bdf" />
+
 
 # ISOTRYX
 
