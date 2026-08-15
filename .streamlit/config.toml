@@ -1,0 +1,9 @@
+[server]
+showEmailPrompt = false
+maxUploadSize = 2000  # MB — mzML files can be large
+
+[theme]
+base = "dark"
+
+[browser]
+gatherUsageStats = false
