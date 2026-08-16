@@ -66,7 +66,7 @@ Since macOS version of app isn't signed with an Apple Developer certificate, mac
 
 •	Download the latest release from GitHub page
 
-• Try opening the app once Locating in this folder path for M chip: /ISOTRYX_macOS_build_kit_M_CHIP/dist/ and this folder path for Intel chip: /ISOTRYX_macOS_build_kit_intel/dist/ and double click ISOTRYX.app  — you'll get a warning and the option to click Done or Cancel.
+• Try opening the app once locating in this folder path for M chip: /ISOTRYX_macOS_build_kit_M_CHIP/dist/ and this folder path for Intel chip: /ISOTRYX_macOS_build_kit_intel/dist/ and double click ISOTRYX.app  — you'll get a warning and the option to click Done or Cancel.
 
 • Go to System Settings → Privacy & Security.
 
