@@ -82,7 +82,8 @@ Alternatively, if you’re familiar with the command line, you can run the app v
 
 • Follow steps as described in README_BUILD_ON_MAC.md
 
-The dataset used in the video tutorial was analyzed on a Mac with an Apple M-series chip. The dataset and video tutorial are available on Zenodo https://zenodo.org/uploads/21628589?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImM0MTUzMGVjLWE4YTgtNDdlMy1iZjYxLTQ2ZTEyYTQ0NGQ2ZiIsImRhdGEiOnt9LCJyYW5kb20iOiIyYTBiMjZkNGU2MDU2OTA3NWUxYmZlYWYwZTc0NjAyNCJ9.U8C7dWr-Qhxh9dDj8_SYXUbKX8CDPzL6CO0NjzVy4DvFSBhis-208EcALQrjjo3RoljUaz_Y_1dEKzg3QVYHHw
+The dataset used in the video tutorial was analyzed on a Mac with an Apple M-series chip. The dataset and video tutorial are available on Zenodo https://zenodo.org/records/21628589
+
 
 
 ## Metadata File Format
