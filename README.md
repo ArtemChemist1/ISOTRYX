@@ -82,7 +82,7 @@ Alternatively, if you’re familiar with the command line, you can run the app v
 
 • Follow steps as described in README_BUILD_ON_MAC.md
 
-The dataset used in the video tutorial was analyzed on a Mac with an Apple M-series chip. The dataset and video tutorial are available on Zenodo https://zenodo.org/records/21628589
+The dataset used in the video tutorial was analyzed on a Mac with an Apple M-series chip. The dataset and video tutorial are available on Zenodo https://zenodo.org/records/21628589](https://doi.org/10.5281/zenodo.21628589
 
 
 
