@@ -85,7 +85,6 @@ Alternatively, if you’re familiar with the command line, you can run the app v
 The dataset used in the video tutorial was analyzed on a Mac with an Apple M-series chip. The dataset and video tutorial are available on Zenodo https://doi.org/10.5281/zenodo.21628589
 
 
-
 ## Metadata File Format
 
 Upload an `.xlsx` or `.csv` file with the following columns:
